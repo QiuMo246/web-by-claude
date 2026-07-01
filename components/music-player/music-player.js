@@ -47,10 +47,10 @@
       name: '说唱',
       icon: '🎤',
       tracks: [
-        { title: '弃子',         artist: '未知', src: 'assets/music/弃子.mp3' },
-        { title: 'sakana',       artist: '未知', src: 'assets/music/sakana.mp3' },
-        { title: '3dgirl没有爱', artist: '未知', src: 'assets/music/3dgirl没有爱.mp3' },
-        // { title: '歌名', artist: '作者', src: 'assets/music/xxx.mp3' },
+        { title: '弃子',         artist: 'from秋末', src: 'assets/music/弃子.mp3' },
+        { title: 'sakana',       artist: 'from秋末', src: 'assets/music/sakana.mp3' },
+        { title: '3dgirl没有爱', artist: 'from秋末', src: 'assets/music/3dgirl没有爱.mp3' },
+        { title: '19-2000', artist: 'from虞CH', src: 'assets/music/19-2000.mp3' },
       ],
     },
 
@@ -59,9 +59,10 @@
       name: '流行',
       icon: '🎵',
       tracks: [
-        { title: 'payphone',       artist: 'Maroon 5', src: 'assets/music/payphone.mp3' },
-        { title: 'maybe',          artist: '未知',     src: 'assets/music/maybe.mp3' },
-        { title: '零距离的思念',    artist: '未知',     src: 'assets/music/零距离的思念.mp3' },
+        { title: 'payphone',       artist: 'from秋末', src: 'assets/music/payphone.mp3' },
+        { title: 'maybe',          artist: 'from秋末',     src: 'assets/music/maybe.mp3' },
+        { title: '零距离的思念',    artist: 'from秋末',     src: 'assets/music/零距离的思念.mp3' },
+        
         
       ],
     },
@@ -71,7 +72,7 @@
       name: '摇滚',
       icon: '🎸',
       tracks: [
-        // { title: '歌名', artist: '作者', src: 'assets/music/xxx.mp3' },
+        { title: 'rifle', artist: 'from秋末', src: 'assets/music/rifle.mp3' },
       ],
     },
 
@@ -90,6 +91,7 @@
         { title: 'Who Says',         artist: 'from万ZH', src: 'assets/music/Who Says.mp3' },
         { title: 'We Are The World', artist: 'from虞CH', src: 'assets/music/We Are The World.mp3' },
         { title: 'tek it',           artist: 'from秋末', src: 'assets/music/tek it.mp3' },
+        { title: 'I Love You 3000',    artist: 'from吴YY',     src: 'assets/music/I Love You 3000.mp3' },
       ],
     },
   };
